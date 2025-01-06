@@ -19,7 +19,7 @@ Welcome to my portfolio! This repository contains the source code for my persona
 ## 🚀 Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Framework**: [React.js](https://reactjs.org/) (optional if applicable)
+- **Framework**: [React.js](https://reactjs.org/) 
 - **Hosting**: GitHub Pages
 
 ---
